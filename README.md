@@ -1,4 +1,4 @@
-# playwight-tests-salla
+# playwight-tests
 
 This repository contains automated tests for Amazon.sa using Playwright.
 
